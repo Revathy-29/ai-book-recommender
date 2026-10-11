@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+venv/
+.venv/
+.vscode/
+# large generated files: share these via GitHub Releases instead
+books.db
+real_books_full.sql
+*.csv

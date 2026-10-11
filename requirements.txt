@@ -1,0 +1,7 @@
+flask
+pandas
+numpy
+scikit-learn
+gunicorn
+# optional, better AI quality (needs internet on first run):
+# sentence-transformers
